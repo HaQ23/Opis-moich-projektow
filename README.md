@@ -1,7 +1,6 @@
 # Projekty
+Strona którą wraz z kolegą tworzyliśmy dla lokalnej firmy.
 https://www.profirehab.pl/<br>
-https://gleaming-dieffenbachia-0a5b73.netlify.app
-<br>
-https://lovely-fenglisu-fc65f3.netlify.app/
-<br>
+
+Moja pierwsza strona którą stworzyłem w celu zdobycia chętnych na korepetycje
 https://splendorous-profiterole-c4d21d.netlify.app/ 
