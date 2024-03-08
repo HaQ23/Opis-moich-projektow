@@ -21,3 +21,7 @@ Chcąc sprawdzić wszystkie możliwości serwisu MemHub należy utworzyć konto 
 > :globe_with_meridians: Hasło: **testuser123**
 
 Kod całego projektu jest umieszczony na moim profilu w repozytorium "memwebiste" a całość jest na branch'u "php-final"
+
+
+Ostatnią aplikacją, nad którą pracowałem we współpracy z kolegą, była zaawansowana aplikacja webowa, korzystająca z technologii Angular oraz Spring Boot.
+Inspiracją dla naszego projektu była popularna platforma "Uber Eats".  Link: https://gitlab.com/kacbal/foodly
