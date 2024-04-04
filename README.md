@@ -11,11 +11,6 @@ https://splendorous-profiterole-c4d21d.netlify.app/ <br>
 
 Kolejnym większym projektem był projekt zaliczeniowy tworzony na studia. Realizowaliśmy go w grupach. Moim zadaniem było zaprojektowanie i stworzenie całej strony głównej, wraz z podstroną 'generator'. Projekt opierał się głównie na PHP, jednak większość funkcji została napisana w JavaScript. Mimo że kod mógłby być bardziej czytelny i zoptymalizowany, to doświadczenie z jego tworzenia bardzo poprawiło moje umiejętności programowania w JS oraz zrozumienie idei asynchroniczności. Teraz, gdybym miał realizować ten projekt ponownie, zastosowałbym zupełnie inne podejście, lecz ta praktyka na pewno wpłynęła pozytywnie na mój rozwój jako programisty.<br>
 Link do strony: http://mem-hub.pl<br>
-
-Chcąc sprawdzić wszystkie możliwości serwisu MemHub należy utworzyć konto użytkownika jedndakże można również wykorzystać testowe konto:
-> :globe_with_meridians: Login: **testuser**
-> :globe_with_meridians: Hasło: **testuser123**
-
 Kod całego projektu jest umieszczony na moim profilu w repozytorium ["memwebiste"](https://github.com/HaQ23/memwebsite), a całość jest na branch'u "php-final"
 
 Kolejnym etapem mojej nauki było poznanie Angulara. Moją pierwszą aplikacją było stworzenie aplikacji do zarządzania zadaniami (todo list), której celem było zapoznanie się z całym środowiskiem Angulara.
