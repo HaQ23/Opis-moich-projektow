@@ -18,4 +18,6 @@ W ramach tego projektu, eksplorowałem różne funkcjonalności i narzędzia dos
 Tworzenie aplikacji todo było świetnym sposobem na praktyczne zastosowanie nowo zdobytej wiedzy na temat Angulara. Pozwoliło mi to również na rozwinięcie umiejętności w pracy z interfejsem użytkownika oraz w obsłudze interakcji między komponentami. Dzięki temu projektowi zyskałem solidną podstawę do dalszego eksplorowania i rozwijania aplikacji webowych przy użyciu Angulara. Link do rezpozytorium:https://github.com/HaQ23/todoApp <br>
 
 Ostatnią aplikacją, nad którą pracowałem we współpracy z kolegą, była zaawansowana aplikacja webowa, korzystająca z technologii Angular oraz Spring Boot.
-Inspiracją dla naszego projektu była popularna platforma "Uber Eats".  Link: https://gitlab.com/kacbal/foodly
+Inspiracją dla naszego projektu była popularna platforma "Uber Eats".  Link: https://gitlab.com/kacbal/foodly <br>
+
+Aktualnie w ramach projektu inżynierskiego tworzę aplikację webową do rezerwacji usług w salonie fryzjerskim. Wykorzystuję Angular do budowy interfejsu użytkownika (frontend) i Java Spring Boot do obsługi logiki biznesowej i komunikacji z bazą danych (backend). 
