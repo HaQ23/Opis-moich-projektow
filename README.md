@@ -9,7 +9,7 @@ Moja pierwsza strona którą stworzyłem w celu zdobycia chętnych na korepetycj
 https://splendorous-profiterole-c4d21d.netlify.app/ <br>
 
 
-Kolejnym większym projektem był projekt zaliczeniowy tworzony na studia. Realizowaliśmy go w grupach. Moim zadaniem było zaprojektowanie i stworzenie całej strony głównej, wraz z podstroną 'generator'. Projekt opierał się głównie na PHP, jednak większość funkcji została napisana w JavaScript. Mimo że kod mógłby być bardziej czytelny i zoptymalizowany, to doświadczenie z jego tworzenia bardzo poprawiło moje umiejętności programowania w JS oraz zrozumienie idei asynchroniczności. Teraz, gdybym miał realizować ten projekt ponownie, zastosowałbym zupełnie inne podejście, lecz ta praktyka na pewno wpłynęła pozytywnie na mój rozwój jako programisty.br>
+Kolejnym większym projektem był projekt zaliczeniowy tworzony na studia. Realizowaliśmy go w grupach. Moim zadaniem było zaprojektowanie i stworzenie całej strony głównej, wraz z podstroną 'generator'. Projekt opierał się głównie na PHP, jednak większość funkcji została napisana w JavaScript. Mimo że kod mógłby być bardziej czytelny i zoptymalizowany, to doświadczenie z jego tworzenia bardzo poprawiło moje umiejętności programowania w JS oraz zrozumienie idei asynchroniczności. Teraz, gdybym miał realizować ten projekt ponownie, zastosowałbym zupełnie inne podejście, lecz ta praktyka na pewno wpłynęła pozytywnie na mój rozwój jako programisty.<br>
 Link do strony: http://mem-hub.pl<br>
 
 Chcąc sprawdzić wszystkie możliwości serwisu MemHub należy utworzyć konto użytkownika jedndakże można również wykorzystać testowe konto:
