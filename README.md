@@ -16,8 +16,11 @@ Chcąc sprawdzić wszystkie możliwości serwisu MemHub należy utworzyć konto 
 > :globe_with_meridians: Login: **testuser**
 > :globe_with_meridians: Hasło: **testuser123**
 
-Kod całego projektu jest umieszczony na moim profilu w repozytorium "memwebiste" a całość jest na branch'u "php-final"
+Kod całego projektu jest umieszczony na moim profilu w repozytorium ["memwebiste"](https://github.com/HaQ23/memwebsite), a całość jest na branch'u "php-final"
 
+Kolejnym etapem mojej nauki było poznanie Angulara. Moją pierwszą aplikacją było stworzenie aplikacji do zarządzania zadaniami (todo list), której celem było zapoznanie się z całym środowiskiem Angulara.
+W ramach tego projektu, eksplorowałem różne funkcjonalności i narzędzia dostępne w Angularze, takie jak komponenty, usługi, routing, formularze, oraz komunikację z backendem poprzez HTTP. Projekt ten umożliwił mi zrozumienie podstawowych koncepcji związanych z Angularem, takich jak unidirectional data flow, dependency injection, oraz modularność aplikacji.
+Tworzenie aplikacji todo było świetnym sposobem na praktyczne zastosowanie nowo zdobytej wiedzy na temat Angulara. Pozwoliło mi to również na rozwinięcie umiejętności w pracy z interfejsem użytkownika oraz w obsłudze interakcji między komponentami. Dzięki temu projektowi zyskałem solidną podstawę do dalszego eksplorowania i rozwijania aplikacji webowych przy użyciu Angulara. Link do rezpozytorium:https://github.com/HaQ23/todoApp <br>
 
 Ostatnią aplikacją, nad którą pracowałem we współpracy z kolegą, była zaawansowana aplikacja webowa, korzystająca z technologii Angular oraz Spring Boot.
 Inspiracją dla naszego projektu była popularna platforma "Uber Eats".  Link: https://gitlab.com/kacbal/foodly
